@@ -1,0 +1,74 @@
+{
+  "empresa": {
+    "razonSocial": "SolucionaNegocio Perú S.A.C.",
+    "ruc": "20123456789",
+    "direccion": "Av. Javier Prado Este 1420, San Isidro, Lima",
+    "telefono": "01-234-5678",
+    "whatsapp": "+51 987 654 321",
+    "email": "ventas@solucionanegocio.pe",
+    "horarios": "Lunes a Viernes: 8:00 AM - 6:00 PM\nSábados: 9:00 AM - 1:00 PM",
+    "mision": "Proveer soluciones integrales de suministros empresariales con la más alta calidad, servicio personalizado y precios competitivos para impulsar el crecimiento de nuestros clientes.",
+    "vision": "Ser la empresa líder en suministros empresariales del Perú, reconocida por nuestra innovación, confiabilidad y compromiso con la excelencia.",
+    "valores": [
+      "Calidad: Ofrecemos productos y servicios de la más alta calidad",
+      "Confiabilidad: Cumplimos nuestros compromisos y plazos de entrega",
+      "Innovación: Buscamos constantemente mejores soluciones para nuestros clientes",
+      "Servicio: Brindamos atención personalizada y soporte especializado",
+      "Integridad: Actuamos con transparencia y ética en todos nuestros procesos"
+    ],
+    "historia": [
+      {
+        "año": "2015",
+        "evento": "Fundación de la empresa",
+        "descripcion": "Iniciamos operaciones con un catálogo básico de suministros de oficina"
+      },
+      {
+        "año": "2017",
+        "evento": "Expansión del catálogo",
+        "descripcion": "Incorporamos líneas de limpieza e higiene y productos de impresión"
+      },
+      {
+        "año": "2019",
+        "evento": "Certificación ISO 9001",
+        "descripcion": "Obtuvimos la certificación de calidad internacional ISO 9001:2015"
+      },
+      {
+        "año": "2021",
+        "evento": "Plataforma digital",
+        "descripcion": "Lanzamos nuestra plataforma de cotizaciones en línea"
+      },
+      {
+        "año": "2023",
+        "evento": "Cobertura nacional",
+        "descripcion": "Expandimos nuestros servicios a nivel nacional con entregas a provincias"
+      },
+      {
+        "año": "2024",
+        "evento": "Línea tecnológica",
+        "descripcion": "Incorporamos equipos tecnológicos y soluciones de automatización"
+      }
+    ],
+    "equipo": [
+      {
+        "nombre": "Carlos Mendoza",
+        "cargo": "Gerente General",
+        "descripcion": "Ingeniero Industrial con más de 15 años de experiencia en el sector B2B"
+      },
+      {
+        "nombre": "Ana Rodríguez",
+        "cargo": "Gerente Comercial",
+        "descripcion": "Especialista en ventas corporativas y desarrollo de cuentas clave"
+      },
+      {
+        "nombre": "Miguel Torres",
+        "cargo": "Gerente de Operaciones",
+        "descripcion": "Experto en logística y cadena de suministro con certificación internacional"
+      },
+      {
+        "nombre": "Patricia Vega",
+        "cargo": "Gerente de Calidad",
+        "descripcion": "Ingeniera Química especializada en control de calidad y certificaciones"
+      }
+    ]
+  }
+}

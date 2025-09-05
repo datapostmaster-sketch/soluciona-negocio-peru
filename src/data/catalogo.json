@@ -1,0 +1,201 @@
+{
+  "categorias": [
+    {
+      "id": "impresion",
+      "nombre": "Impresión y Packaging",
+      "descripcion": "Soluciones de impresión, etiquetas y empaques para optimizar tu logística y presentación de productos.",
+      "imagen": "/images/categorias/impresion.webp",
+      "productos": [
+        {
+          "id": "etiqueta-termica",
+          "nombre": "Etiquetas térmicas",
+          "descripcion": "Etiquetas adhesivas de alta calidad para retail, logística y códigos de barras.",
+          "caracteristicas": [
+            "Anchos disponibles: 50–100 mm", 
+            "Rollos de 1'' y 3'' de diámetro",
+            "Compatibles con Zebra, TSC, Honeywell",
+            "Adhesivo permanente y removible",
+            "Resistente a temperaturas extremas"
+          ],
+          "sku": "ETI-THERM",
+          "unidad": "rollo",
+          "imagen": "/images/productos/etiquetas-termicas.webp"
+        },
+        {
+          "id": "cajas-carton",
+          "nombre": "Cajas de cartón corrugado",
+          "descripcion": "Cajas personalizadas para envío y almacenamiento con máxima resistencia.",
+          "caracteristicas": [
+            "Flauta B, C y E disponibles",
+            "Personalización con logo e impresión",
+            "Pedidos desde 100 unidades",
+            "Resistencia 32 ECT estándar",
+            "Diseño a medida disponible"
+          ],
+          "sku": "BOX-CORR",
+          "unidad": "unidad",
+          "imagen": "/images/productos/cajas-carton.webp"
+        },
+        {
+          "id": "bolsas-polietileno",
+          "nombre": "Bolsas de polietileno",
+          "descripcion": "Bolsas resistentes para empaque y protección de productos diversos.",
+          "caracteristicas": [
+            "Alta densidad (HDPE) y baja densidad (LDPE)",
+            "Transparentes y de colores",
+            "Con cierre hermético disponible",
+            "Calibres desde 2 hasta 8 mil",
+            "Tamaños estándar y personalizados"
+          ],
+          "sku": "BOL-PE",
+          "unidad": "paquete",
+          "imagen": "/images/productos/bolsas-polietileno.webp"
+        }
+      ]
+    },
+    {
+      "id": "oficina",
+      "nombre": "Suministros de Oficina",
+      "descripcion": "Artículos y consumibles esenciales para mantener tu oficina productiva y organizada.",
+      "imagen": "/images/categorias/oficina.webp",
+      "productos": [
+        {
+          "id": "papel-a4",
+          "nombre": "Papel A4 75g",
+          "descripcion": "Papel bond de alta calidad para impresiones profesionales y documentos importantes.",
+          "caracteristicas": [
+            "Resma de 500 hojas",
+            "Blancura 95% ISO",
+            "Reduce atascos en impresoras",
+            "Compatible con láser e inkjet",
+            "Certificado ecológico FSC"
+          ],
+          "sku": "PAP-A4",
+          "unidad": "resma",
+          "imagen": "/images/productos/papel-a4.webp"
+        },
+        {
+          "id": "tintas-toner",
+          "nombre": "Toners y Tintas",
+          "descripcion": "Cartuchos originales y compatibles para todas las marcas de impresoras.",
+          "caracteristicas": [
+            "Compatibles HP, Canon, Epson, Brother",
+            "Rendimiento equivalente al original",
+            "Garantía de calidad 12 meses",
+            "Toners láser y tintas inkjet",
+            "Instalación gratuita en Lima"
+          ],
+          "sku": "INK-TON",
+          "unidad": "unidad",
+          "imagen": "/images/productos/tintas-toner.webp"
+        },
+        {
+          "id": "archivadores",
+          "nombre": "Archivadores y Folders",
+          "descripcion": "Soluciones de archivo y organización para documentos empresariales.",
+          "caracteristicas": [
+            "Archivadores palanca A4 y oficio",
+            "Folders manila y colgantes",
+            "Resistente cartón prensado",
+            "Colores varios para clasificación",
+            "Etiquetas incluidas"
+          ],
+          "sku": "ARCH-FOL",
+          "unidad": "unidad",
+          "imagen": "/images/productos/archivadores.webp"
+        }
+      ]
+    },
+    {
+      "id": "limpieza",
+      "nombre": "Limpieza e Higiene",
+      "descripcion": "Productos profesionales de limpieza para mantener espacios seguros y saludables.",
+      "imagen": "/images/categorias/limpieza.webp",
+      "productos": [
+        {
+          "id": "desinfectante",
+          "nombre": "Desinfectante multiusos",
+          "descripcion": "Desinfectante de amplio espectro para superficies de alto tráfico y áreas críticas.",
+          "caracteristicas": [
+            "Base de amonio cuaternario",
+            "Elimina 99.9% de gérmenes",
+            "Presentación 1L, 4L y 20L",
+            "Fragancia fresca y duradera",
+            "Registro sanitario DIGESA"
+          ],
+          "sku": "DES-MULTI",
+          "unidad": "botella",
+          "imagen": "/images/productos/desinfectante.webp"
+        },
+        {
+          "id": "papel-higienico",
+          "nombre": "Papel higiénico institucional",
+          "descripción": "Papel higiénico de alta calidad para uso institucional y comercial.",
+          "caracteristicas": [
+            "Doble hoja extra suave",
+            "Rollos de 300m por unidad",
+            "Presentación por 4 y 12 rollos",
+            "Biodegradable y ecológico",
+            "Compatible con dispensadores estándar"
+          ],
+          "sku": "PAP-HIG",
+          "unidad": "paquete",
+          "imagen": "/images/productos/papel-higienico.webp"
+        },
+        {
+          "id": "jabon-liquido",
+          "nombre": "Jabón líquido antibacterial",
+          "descripcion": "Jabón líquido suave con acción antibacterial para lavado frecuente de manos.",
+          "caracteristicas": [
+            "Fórmula pH balanceado",
+            "Con glicerina humectante",
+            "Presentación 500ml y 4L",
+            "Dispensador incluido (500ml)",
+            "Fragancia suave hipoalergénica"
+          ],
+          "sku": "JAB-LIQ",
+          "unidad": "botella",
+          "imagen": "/images/productos/jabon-liquido.webp"
+        }
+      ]
+    },
+    {
+      "id": "tecnologia",
+      "nombre": "Tecnología y Equipos",
+      "descripcion": "Equipos tecnológicos y accesorios para modernizar tu empresa y mejorar la productividad.",
+      "imagen": "/images/categorias/tecnologia.webp",
+      "productos": [
+        {
+          "id": "impresoras-termicas",
+          "nombre": "Impresoras térmicas",
+          "descripcion": "Impresoras especializadas para etiquetas, códigos de barras y tickets de venta.",
+          "caracteristicas": [
+            "Resolución 203 y 300 DPI",
+            "Velocidad hasta 6 ips",
+            "Conectividad USB, Ethernet, WiFi",
+            "Compatible con ZPL, EPL, TSPL",
+            "Servicio técnico especializado"
+          ],
+          "sku": "IMP-TERM",
+          "unidad": "unidad",
+          "imagen": "/images/productos/impresoras-termicas.webp"
+        },
+        {
+          "id": "lectores-codigo",
+          "nombre": "Lectores de código de barras",
+          "descripcion": "Lectores ópticos de alta precisión para inventarios y punto de venta.",
+          "caracteristicas": [
+            "Lectura 1D y 2D (QR, DataMatrix)",
+            "Conexión USB plug & play",
+            "Resistente a caídas 1.5m",
+            "Rango de lectura hasta 60cm",
+            "Compatible con todos los POS"
+          ],
+          "sku": "LECT-COD",
+          "unidad": "unidad",
+          "imagen": "/images/productos/lectores-codigo.webp"
+        }
+      ]
+    }
+  ]
+}
